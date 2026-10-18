@@ -1,7 +1,7 @@
 # Catálogo de productos de Etiqueta Segura
 
 Base de productos alimenticios vendidos en Argentina incluida en la app **Etiqueta Segura**.
-Contiene **7,693 productos**: 4,466 con lista de ingredientes y 3,227 "parciales" (nombre, código y nutrición, sin ingredientes).
+Contiene **7,623 productos**: 4,466 con lista de ingredientes y 3,157 "parciales" (nombre, código y nutrición, sin ingredientes).
 
 ## Origen y licencia
 
