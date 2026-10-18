@@ -38,3 +38,13 @@ publicado como dato abierto con licencia Creative Commons Atribución (CC BY) en
 ## Aviso
 
 Son datos colaborativos y pueden tener errores o estar desactualizados. No sustituyen la lectura del envase.
+
+## Productos que no son alimentos (`nonfood.json`)
+
+Para la lista del súper, la app incluye además **515 productos de Argentina que no son alimentos** (higiene, hogar y limpieza, mascotas), 453 de ellos con foto, en `nonfood.json`.
+Derivan de [Open Beauty Facts](https://world.openbeautyfacts.org), [Open Products Facts](https://world.openproductsfacts.org) y [Open Pet Food Facts](https://world.openpetfoodfacts.org)
+(© sus colaboradores), bajo la misma [ODbL 1.0](https://opendatacommons.org/licenses/odbl/1-0/); las fotos de esos proyectos son CC BY-SA y se enlazan, no se copian.
+
+Modificaciones: se tomaron los productos con país Argentina (o código de barras 779) y nombre; se descartaron tabaco, bebidas alcohólicas y los marcados como "tipo de producto incorrecto";
+se simplificaron los campos a `c` (código), `n` (nombre), `b` (marca), `q` (cantidad), `g` (rubro) e `i` (dirección de la foto).
+`nonfood_generic.json` es una lista de 134 sugerencias genéricas (sin marca ni foto) escrita a mano para la app.
