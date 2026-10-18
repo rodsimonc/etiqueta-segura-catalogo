@@ -47,4 +47,4 @@ Derivan de [Open Beauty Facts](https://world.openbeautyfacts.org), [Open Product
 
 Modificaciones: se tomaron los productos con país Argentina (o código de barras 779) y nombre; se descartaron tabaco, bebidas alcohólicas y los marcados como "tipo de producto incorrecto";
 se simplificaron los campos a `c` (código), `n` (nombre), `b` (marca), `q` (cantidad), `g` (rubro) e `i` (dirección de la foto).
-`nonfood_generic.json` es una lista de 134 sugerencias genéricas (sin marca ni foto) escrita a mano para la app.
+`nonfood_generic.json` es una lista de 259 sugerencias (genéricas y con marcas conocidas en Argentina; sin foto) escrita a mano para la app.
