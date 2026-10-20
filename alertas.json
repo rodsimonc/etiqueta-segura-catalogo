@@ -1,0 +1,175 @@
+{
+  "version": 1,
+  "updated": "2026-10-19",
+  "source": "ANMAT - https://www.argentina.gob.ar/anmat/alertas/alimentos",
+  "alerts": [
+    {
+      "id": "2026-07-13-la-anonima-sopa-arvejas",
+      "date": "2026-07-13",
+      "kind": "recall",
+      "title": "Retiro del mercado de tres lotes de Sopa de arvejas instantánea La Anónima",
+      "brand": "La Anónima",
+      "product": "sopa de arvejas deshidratada instantánea",
+      "allergens": [
+        "soy"
+      ],
+      "lots": [
+        "6107 (vence 17/4/27)",
+        "6113 (vence 23/4/27)",
+        "6114 (vence 24/4/27)"
+      ],
+      "summary": "Una materia prima pasó a indicar \"puede contener derivados de soja\" y la soja no figuraba en la declaración de alérgenos. Quienes son alérgicos a la soja no deben consumir esos lotes.",
+      "url": "https://www.argentina.gob.ar/noticias/retiro-del-mercado-de-tres-lotes-de-sopa-de-arvejas-deshidratada-instantanea-marca-la"
+    },
+    {
+      "id": "2026-06-11-green-olive-aceite",
+      "date": "2026-06-11",
+      "kind": "ban",
+      "title": "ANMAT prohíbe unidades falsificadas de un aceite marca Green Olive",
+      "brand": "Green Olive",
+      "product": "aceite de oliva",
+      "allergens": [],
+      "lots": [],
+      "summary": "Unidades falsificadas del producto. Está prohibida su venta y consumo.",
+      "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-unidades-falsificadas-de-un-aceite-marca-green-olive"
+    },
+    {
+      "id": "2026-02-19-nucete-aceite",
+      "date": "2026-02-19",
+      "kind": "ban",
+      "title": "ANMAT prohíbe el aceite de oliva virgen extra clásico marca Nucete",
+      "brand": "Nucete",
+      "product": "aceite de oliva virgen extra",
+      "allergens": [],
+      "lots": [],
+      "summary": "La empresa confirmó que el producto es falsificado. Está prohibida su venta y consumo.",
+      "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-el-producto-aceite-de-oliva-virgen-extra-clasico-de-la-marca-nucete"
+    },
+    {
+      "id": "2026-01-30-tierra-de-oliva-aceite",
+      "date": "2026-01-30",
+      "kind": "ban",
+      "title": "ANMAT prohíbe un aceite de oliva extra virgen marca Tierra de Oliva",
+      "brand": "Tierra de Oliva",
+      "product": "aceite de oliva extra virgen",
+      "allergens": [],
+      "lots": [],
+      "summary": "El producto no tiene un registro sanitario válido. Está prohibida su venta y consumo.",
+      "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-un-aceite-de-oliva-extra-virgen-de-la-marca-tierra-de-oliva"
+    },
+    {
+      "id": "2026-01-05-nestle-nan-optipro",
+      "date": "2026-01-05",
+      "kind": "recall",
+      "title": "Retiro del mercado de lotes de fórmulas infantiles Nestlé",
+      "brand": "Nestlé",
+      "product": "NAN Optipro 1 c/HMO polvo; Alfamino polvo",
+      "allergens": [],
+      "lots": [
+        "NAN Optipro 1 c/HMO 400 g: 517628872A, 524128872A, 524728872A",
+        "NAN Optipro 1 c/HMO 800 g: 517628872A, 522828872A, 524128872A, 528928872A, 528928872B, 529028872A, 533228872B, 533328872A",
+        "Alfamino 400 g: 51690017Y1"
+      ],
+      "summary": "Posible presencia de la toxina cereulida (Bacillus cereus) en una materia prima. No consumir los lotes indicados; contactar a Nestlé al 0800-999-8100.",
+      "url": "https://www.argentina.gob.ar/noticias/retiro-del-mercado-nestle-argentina-sa"
+    },
+    {
+      "id": "2025-12-12-serenisima-cremon-listeria",
+      "date": "2025-12-12",
+      "kind": "recall",
+      "title": "Queso de pasta blanda Cremón doble crema La Serenísima, lote 2703 (Listeria)",
+      "brand": "La Serenísima",
+      "product": "queso de pasta blanda cremón doble crema",
+      "allergens": [],
+      "lots": [
+        "2703 (elaborado 03/07/2025, vencía 11/09/2025)"
+      ],
+      "summary": "Se detectó Listeria monocytogenes. Quien tenga el lote 2703, incluso fraccionado o congelado, no debe consumirlo, en especial personas inmunosuprimidas y embarazadas.",
+      "url": "https://www.argentina.gob.ar/noticias/informacion-de-anmat-y-senasa-sobre-queso-de-pasta-blanda-asociado-listeriosis"
+    },
+    {
+      "id": "2025-11-20-anmat-advierte-sobre-retiro-internaciona",
+      "date": "2025-11-20",
+      "kind": "info",
+      "title": "ANMAT advierte sobre retiro internacional de fórmula infantil - ByHeart Whole Nutrition",
+      "brand": "ByHeart",
+      "product": "fórmula infantil Whole Nutrition",
+      "allergens": [],
+      "lots": [],
+      "summary": "Aviso de ANMAT sobre un retiro internacional de fórmula infantil. Revisá la marca y los lotes en la fuente oficial.",
+      "url": "https://www.argentina.gob.ar/noticias/anmat-advierte-sobre-retiro-internacional-de-formula-infantil-byheart-whole-nutrition"
+    },
+    {
+      "id": "2025-11-13-anmat-prohibe-la-comercializacion-de-pro",
+      "date": "2025-11-13",
+      "kind": "ban",
+      "title": "ANMAT prohíbe la comercialización de productos de café de las marcas Caffé del Doge, Café Sol y Caffé del Ponte Rialto",
+      "brand": "Caffè del Doge",
+      "product": "café",
+      "allergens": [],
+      "lots": [],
+      "summary": "Productos sin registro válido y con rótulos falsos. Está prohibida su venta y consumo.",
+      "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-la-comercializacion-de-productos-de-cafe-de-las-marcas-caffe-del-doge-cafe-0"
+    },
+    {
+      "id": "2025-11-04-anmat-prohibe-el-producto-aceite-de-oliv",
+      "date": "2025-11-04",
+      "kind": "ban",
+      "title": "ANMAT prohíbe el producto “Aceite de oliva extra virgen” marca Valle de Beraca",
+      "brand": "Valle de Beraca",
+      "product": "aceite de oliva extra virgen",
+      "allergens": [],
+      "lots": [],
+      "summary": "Producto sin registro. Está prohibida su venta y consumo.",
+      "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-el-producto-aceite-de-oliva-extra-virgen-marca-valle-de-beraca"
+    },
+    {
+      "id": "2025-11-04-anmat-prohibe-varios-productos-de-la-mar",
+      "date": "2025-11-04",
+      "kind": "ban",
+      "title": "ANMAT prohíbe varios productos de la marca \"Grupo Bio Fit SRL\"",
+      "brand": "Grupo Bio Fit",
+      "product": "",
+      "allergens": [],
+      "lots": [],
+      "summary": "Productos con rótulos falsos y números de registro vencidos. Está prohibida su venta y consumo.",
+      "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-varios-productos-de-la-marca-grupo-bio-fit-srl"
+    },
+    {
+      "id": "2025-11-04-anmat-prohibe-el-producto-aceite-comesti",
+      "date": "2025-11-04",
+      "kind": "ban",
+      "title": "ANMAT prohíbe el producto “Aceite comestible mezcla, libre de gluten” de la marca Ecoliva",
+      "brand": "Ecoliva",
+      "product": "aceite comestible mezcla",
+      "allergens": [],
+      "lots": [],
+      "summary": "La composición no coincide con el rótulo. Está prohibida su venta y consumo.",
+      "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-el-producto-aceite-comestible-mezcla-libre-de-gluten-de-la-marca-ecoliva"
+    },
+    {
+      "id": "2025-10-23-anmat-prohibe-el-producto-aceite-de-oliv",
+      "date": "2025-10-23",
+      "kind": "ban",
+      "title": "ANMAT prohíbe el producto “Aceite de oliva extra virgen” marca Olivos de Arauco",
+      "brand": "Olivos de Arauco",
+      "product": "aceite de oliva extra virgen",
+      "allergens": [],
+      "lots": [],
+      "summary": "Producto sin registro válido. Está prohibida su venta y consumo.",
+      "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-el-producto-aceite-de-oliva-extra-virgen-marca-olivos-de-arauco"
+    },
+    {
+      "id": "2025-10-23-anmat-prohibe-el-producto-golosina-base",
+      "date": "2025-10-23",
+      "kind": "ban",
+      "title": "ANMAT prohíbe el producto “Golosina a base de oblea y azúcar” marca Gallinita Orly",
+      "brand": "Gallinita Orly",
+      "product": "golosina a base de oblea y azúcar",
+      "allergens": [],
+      "lots": [],
+      "summary": "Producto sin el registro requerido. Está prohibida su venta y consumo.",
+      "url": "https://www.argentina.gob.ar/noticias/anmat-prohibe-el-producto-golosina-base-de-oblea-y-azucar-marca-gallinita-orly"
+    }
+  ]
+}
