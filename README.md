@@ -48,3 +48,9 @@ Derivan de [Open Beauty Facts](https://world.openbeautyfacts.org), [Open Product
 Modificaciones: se tomaron los productos con país Argentina (o código de barras 779) y nombre; se descartaron tabaco, bebidas alcohólicas y los marcados como "tipo de producto incorrecto";
 se simplificaron los campos a `c` (código), `n` (nombre), `b` (marca), `q` (cantidad), `g` (rubro) e `i` (dirección de la foto).
 `nonfood_generic.json` es una lista de 259 sugerencias (genéricas y con marcas conocidas en Argentina; sin foto) escrita a mano para la app.
+
+## Archivos que la app descarga
+
+- `alertas.json`: alertas alimentarias públicas de ANMAT (retiros, prohibiciones y avisos), con enlace a la fuente oficial. Se revisan a mano.
+- `catalogo_extra.json`: productos aportados por personas usuarias de la app y **revisados** antes de publicarse (código de barras, nombre, marca, categoría e ingredientes, que son datos que figuran en el envase). No incluyen datos de quien los aportó. Mismo formato que `products.json` pero sin nutrición.
+
